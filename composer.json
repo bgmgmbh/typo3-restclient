@@ -28,7 +28,7 @@
   "support": {
     "issues": "https://forge.typo3.org/projects/extension-restclient"
   },
-  "version": "12.4.0",
+  "version": "12.4.1",
   "extra": {
     "typo3/cms": {
       "extension-key": "restclient"
